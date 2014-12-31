@@ -1,0 +1,4 @@
+javac: invalid flag: =version
+Usage: javac <options> <source files>
+use -help for a list of possible options
+Error: Could not find or load main class =version
